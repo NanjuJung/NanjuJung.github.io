@@ -1,1 +1,3 @@
-# NanjuJung.github.io
+# NanjuJung.github
+
+practice 모음
